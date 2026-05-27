@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clustersncrypt",
+        "uuid": 13841366,
+        "checksum": "92lhen"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
